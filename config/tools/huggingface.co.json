@@ -1,0 +1,39 @@
+{
+    "domains": [
+        "metrics-staging.autonlp.huggingface.co",
+        "api.autonlp.huggingface.co",
+        "moonrise.huggingface.co",
+        "tensorboard.huggingface.co",
+        "huggingface.co",
+        "ui.autonlp.huggingface.co",
+        "metrics.autonlp.huggingface.co",
+        "www.gelbooru.com",
+        "api-staging.autonlp.huggingface.co",
+        "transformer.huggingface.co",
+        "gelbooru.com",
+        "ui-staging.autonlp.huggingface.co",
+        "thumbnails.huggingface.co",
+        "widgets-cors-proxy.huggingface.co",
+        "transformers.huggingface.co",
+        "api-inference.huggingface.co",
+        "banana.huggingface.co"
+    ],
+    "dns": [
+        "127.0.0.11:53",
+        "77.88.8.88:53",
+        "8.8.8.8:53",
+        "1.1.1.1:53"
+    ],
+    "timeout": 3600,
+    "ip4": [],
+    "ip6": [],
+    "cidr4": [],
+    "cidr6": [],
+    "external": {
+        "domains": [],
+        "ip4": [],
+        "ip6": [],
+        "cidr4": [],
+        "cidr6": []
+    }
+}
