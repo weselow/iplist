@@ -1,7 +1,8 @@
 {
     "domains": [
-        "gulagu.net",
-        "www.gulagu.net"
+        "pkgs.tailscale.com",
+        "login.tailscale.com",
+        "dl.tailscale.com"
     ],
     "dns": [
         "127.0.0.11:53",
@@ -10,13 +11,9 @@
         "1.1.1.1:53"
     ],
     "timeout": 3600,
-    "ip4": [
-        "161.35.220.135"
-    ],
+    "ip4": [],
     "ip6": [],
-    "cidr4": [
-        "161.35.0.0/16"
-    ],
+    "cidr4": [],
     "cidr6": [],
     "external": {
         "domains": [],
